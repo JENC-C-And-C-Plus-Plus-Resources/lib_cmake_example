@@ -4,6 +4,7 @@ Using this tutorial https://youtu.be/DDHCEE_PHOU?si=7P4dfUmMWw3yiUBa
 - cd SomeMathOperations/build
 - cmake -S ..
 - make 
+- make install
 - cd ../../
 - mkdir build
 - cd build

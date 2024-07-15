@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../SomeMathOperations/someMath.h"
+#include "someMath.h"
 
 int main() {
     int result = someMath::add(2,3);
